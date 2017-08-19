@@ -1,1 +1,1 @@
-# rest-api-generator123
+# rest-api-generator
